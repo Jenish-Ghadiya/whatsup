@@ -7,7 +7,7 @@ import Search from './componets/search';
 // import { Toaster } from 'react-hot-toast';
 
 function App() {
-  const phoneNumber = '9898144191'; // Replace with your phone number, including country code
+  const phoneNumber = '7096801680'; // Replace with your phone number, including country code
   const message = encodeURIComponent('Hello, I would like to know more about your services.');
   return (
     <>
